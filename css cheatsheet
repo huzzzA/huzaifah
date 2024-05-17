@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS CheatSheet</title>
+    <link href="./resources/index.css" type="text/css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <nav class="navigation">
+        <h2 class="name">Huzaifah</h2>
+        <ul>
+            <li>Introduction</li>
+            <li>Box Model</li>
+            <li>Contact</li>
+        </ul>
+    </nav>
+    <header>
+        <h1>CSS CheatSheet</h1>
+    </header>
+    <main class="main">
+        <div>
+            <table class= "tbm">
+                <tr>
+                    <th class="tit">The Box Model</th>
+                    <th></th>
+                    <th></th>
+
+                </tr>
+                
+                <tr class="row1">
+                    <td class="para">The CSS box model organizes elements into a structured layout. It consists of content, padding, border, and margin, each contributing to the overall appearance and spacing of elements on a webpage.
+                         Understanding and manipulating the box model is fundamental to creating visually appealing and well-structured web layouts.</td>
+                    <td class="space"></td>
+                    <td><img src="../HTML cheatsheet/Picture1.jpg"></td>
+
+                </tr>
+                
+            </table>
+        </div>
+    </main>
+
+
+
+</body>
+
+
+</html>
